@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Kotryna 👋
 
-<!--
-**codedbykotryna/codedbykotryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer specializing in tools, UI frameworks, and desktop apps.
 
-Here are some ideas to get you started:
+## 🛠 Tech I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#, WPF, WinForms, MVVM
+- React, Tailwind, Figma
+- Azure, Git, SQL Server
+
+## 🏢 Companies I've Worked With
+
+- DMC – Software Developer
+- Kwalee – Senior Tools Programmer
+
+## 🚀 Portfolio
+
+Check out my live site: [codedbykotryna.github.io/portfolio](https://codedbykotryna.github.io/portfolio)
